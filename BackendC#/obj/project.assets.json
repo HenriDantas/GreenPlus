@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santo\\Documents\\GitHub\\GreenPlus\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\santo\\Documents\\GitHub\\GreenPlus\\BackendC#\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\santo\\Documents\\GitHub\\GreenPlus\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\santo\\Documents\\GitHub\\GreenPlus\\BackendC#\\Backend.csproj",
       "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santo\\Documents\\GitHub\\GreenPlus\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\santo\\Documents\\GitHub\\GreenPlus\\BackendC#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
