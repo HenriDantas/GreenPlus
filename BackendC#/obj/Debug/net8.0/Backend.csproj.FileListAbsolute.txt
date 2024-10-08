@@ -32,3 +32,8 @@ c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\obj\Debug\net8.0\refint\Back
 c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\obj\Debug\net8.0\Backend.pdb
 c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\obj\Debug\net8.0\Backend.genruntimeconfig.cache
 c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\obj\Debug\net8.0\ref\Backend.dll
+c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\bin\Debug\net8.0\publish\web.config
+c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\bin\Debug\net8.0\publish\appsettings.Development.json
+c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\bin\Debug\net8.0\publish\appsettings.json
+c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\bin\Debug\net8.0\publish\Backend.deps.json
+c:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\bin\Debug\net8.0\publish\Backend.runtimeconfig.json
