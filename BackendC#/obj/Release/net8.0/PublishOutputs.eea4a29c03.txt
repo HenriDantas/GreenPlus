@@ -1,0 +1,12 @@
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Backend.exe
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\appsettings.Development.json
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\appsettings.json
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Backend.dll
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Backend.deps.json
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Backend.runtimeconfig.json
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Backend.pdb
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Microsoft.OpenApi.dll
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\santo\Documents\GitHub\GreenPlus\BackendC#\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
